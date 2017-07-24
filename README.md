@@ -2,6 +2,8 @@
 
  [![Build Status](https://travis-ci.org/OpenSourceHelpCommunity/OpenSourceHelpCommunity.github.io.svg?branch=develop)](https://travis-ci.org/OpenSourceHelpCommunity/OpenSourceHelpCommunity.github.io)
 
+[![Coverage Status](https://coveralls.io/repos/github/OpenSourceHelpCommunity/OpenSourceHelpCommunity.github.io/badge.svg?branch=develop)](https://coveralls.io/github/OpenSourceHelpCommunity/OpenSourceHelpCommunity.github.io?branch=develop)
+
 ![OSHC](https://avatars0.githubusercontent.com/u/23719480?v=3&s=200)
 
 We are trying to create a medium where people who want to start with contributing to open sources and open source contributors meet and discuss their thoughts and questions([Getting Started With Open Source](https://github.com/tapasweni-pathak/Getting-Started-With-Contributing-to-Open-Sources)).
